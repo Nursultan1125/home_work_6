@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeWork6</string>
+    <string name="cars">Cars</string>
+    <string name="listview">ListView</string>
+    <string name="_2000">$ 2 000</string>
+    <string name="_279_297">279 297 сом</string>
+    <string name="nisan_bluebird">Nisan Bluebird</string>
+    <string name="descriontion_car">седан,бензин</string>
+</resources>
